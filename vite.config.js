@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'reactyt',
+  base: 'https://codingschema22.github.io/react-yt/',
 })
